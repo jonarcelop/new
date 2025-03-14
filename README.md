@@ -15,6 +15,8 @@ Se ha creado un **Diagrama de Clases** que representa el modelo de dominio del s
 ![Diagrama en blanco](https://github.com/user-attachments/assets/5efed19c-957b-4d1d-b6ef-ad0762658503)
 
 
+![alt text](<Diagrama en blanco.png>)
+
 ### 2️⃣ Pruebas Unitarias
 Se han desarrollado un mínimo de **3 pruebas unitarias por entidad**, enfocadas en validar:
 - **Requerimientos Funcionales**: Comprobación de que cada entidad se crea y se relaciona correctamente.
