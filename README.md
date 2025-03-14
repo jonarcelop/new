@@ -12,6 +12,8 @@ Este proyecto es un sistema de administración de viveros que permite gestionar 
 ## 🔧 Desarrollo de la Actividad
 ### 1️⃣ Modelo con Entidades y ORM
 Se ha creado un **Diagrama de Clases** que representa el modelo de dominio del sistema. Este modelo ha sido implementado con **Django ORM**, asegurando una correspondencia exacta entre las entidades y la base de datos.
+![Diagrama en blanco](https://github.com/user-attachments/assets/5efed19c-957b-4d1d-b6ef-ad0762658503)
+
 
 ### 2️⃣ Pruebas Unitarias
 Se han desarrollado un mínimo de **3 pruebas unitarias por entidad**, enfocadas en validar:
